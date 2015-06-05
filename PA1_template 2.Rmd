@@ -1,0 +1,15 @@
+Reproducible Research: Peer Assessment 1
+==================================================
+#Loading and preprocessing the data
+
+```{r}
+summary(cars)
+```
+
+##You can also embed plots, for example:
+
+```{r, echo=TRUE}
+plot(cars)
+```
+
+#Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
